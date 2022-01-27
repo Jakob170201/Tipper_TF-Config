@@ -20,7 +20,7 @@
 // repeating space/backspace
 &lt { quick_tap_ms = <200>; };
 
-
+/ {
     keymap {
         compatible = "zmk,keymap";
 
@@ -33,6 +33,5 @@
                                 &kp TAB  &kp ENTER                     &kp BACKSPACE   &kp SPACE 
             >;
         };
-    };xa
-
-
+    };
+};
