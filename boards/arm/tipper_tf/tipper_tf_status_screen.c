@@ -4,7 +4,6 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include <zmk/display/widgets/output_status.h>
 #include <zmk/display/status_screen.h>
 
 #include <logging/log.h>
